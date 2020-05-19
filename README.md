@@ -15,14 +15,14 @@ Please follow below steps to run the project:
 Steps to Run the project:
 
 1. git clone https://github.com/apurvdev19/Kids-Application.git
-2. Open cmd and goto to application uisng cd Application Name 
+2. Open command prompt and goto application uisng cd Application Name 
  Run below commands in application directory to run project
-1. npm cache clean --force
-2. npm update
-3. npm install -g webpack-dev-server
+3. npm cache clean --force
 4. npm update
-5. npm install
-6. npm start
+5. npm install -g webpack-dev-server
+6. npm update
+7. npm install
+8. npm start
 
 Please open below URL in browser for the application to be executed on machine.
 
